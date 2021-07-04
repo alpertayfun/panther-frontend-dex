@@ -92,7 +92,7 @@ const BAD_RECIPIENT_ADDRESSES: string[] = [
   '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F', // v2 router 02
   '0x10ed43c718714eb63d5aa57b78b54704e256024e', // v2-2 router 02
   '0xca143ce32fe78f1f7019d7d551a6402fc5350c73', // v2-2 factory
-  '0x5a7d0aa73A1e9C027B6827d148327D08272c3a97', // panther factory
+  '0x5a7d0aa73a1e9c027b6827d148327d08272c3a97', // panther factory
   '0x220Ede0D193dAf9789146680d9f050EF8ee9067c', // panther router
 ]
 
