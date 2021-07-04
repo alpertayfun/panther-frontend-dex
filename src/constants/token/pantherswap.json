@@ -52,7 +52,7 @@
     {
       "name": "PantherSwap Token",
       "symbol": "PANTHER",
-      "address": "0x11d1D8e5718f933D531C958C0647F8Bc5677D87f",
+      "address": "0xA56Aa5d4d5693b33C3b714aE25202c0785BCC3Fd",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/panther.png"
