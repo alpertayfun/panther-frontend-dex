@@ -14,7 +14,7 @@ export function useTransactionAdder(): (
 ) => void {
   const { chainId, account } = useActiveWeb3React()
   const dispatch = useDispatch<AppDispatch>()
-
+  console.warn(account);
   return useCallback(
     (
       response: TransactionResponse,
