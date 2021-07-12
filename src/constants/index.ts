@@ -7,12 +7,12 @@ type ChainTokenList = {
   readonly [chainId in ChainId]: Token[]
 }
 
-export const DAI = new Token(ChainId.MAINNET, '0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3', 18, 'DAI', 'Dai Stablecoin')
-export const BUSD = new Token(ChainId.MAINNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 18, 'BUSD', 'Binance USD')
-export const USDT = new Token(ChainId.MAINNET, '0x55d398326f99059ff775485246999027b3197955', 18, 'USDT', 'Tether USD')
+export const DAI = new Token(ChainId.MAINNET, '0x8a9424745056Eb399FD19a0EC26A14316684e274', 18, 'DAI', 'Dai Stablecoin')
+export const BUSD = new Token(ChainId.MAINNET, '0xae13d989dac2f0debff460ac112a837c89baa7cd', 18, 'BUSD', 'Binance USD')
+export const USDT = new Token(ChainId.MAINNET, '0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684', 18, 'USDT', 'Tether USD')
 export const UST = new Token(
   ChainId.MAINNET,
-  '0x23396cf899ca06c4472205fc903bdb4de249d6fc',
+  '0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7',
   18,
   'UST',
   'Wrapped UST Token'
